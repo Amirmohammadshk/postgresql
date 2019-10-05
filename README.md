@@ -1,2 +1,2 @@
 # postgresql
-postgresql database tools
+postgresql database scripts on linux terminal
